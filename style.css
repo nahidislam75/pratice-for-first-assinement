@@ -1,0 +1,50 @@
+body{
+    font-family: 'Pirata One', cursive;
+    margin: 0;
+}
+.pink-word{
+    color: red;
+}
+section{
+    height: 600px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 2%;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.half-width img{
+    width: 100%;
+}
+.first-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, red , tomato);
+    color:white;
+    font-weight: 700;
+}
+.first-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, blue, skyblue);
+    color:white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.second-banner{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
